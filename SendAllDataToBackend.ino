@@ -7,8 +7,8 @@
 #define rxPin 16       //GPIO16
 #define txPin 17
 
-const char* ssid = "iPhone";
-const char* password = "3otwnhquqsq6u";
+const char* ssid = "Dan's iPhone";
+const char* password = "";
 const char* serverURL = "http://172.20.10.2:8000/api/sendMessage";
 
 HTTPClient http;
